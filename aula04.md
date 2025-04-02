@@ -4,7 +4,7 @@ tags: [java, programacao, monitoria, poo, classes, objetos]
 
 ---
 
-# Revisão de Aula: Métodos, Classes e Objetos
+# Métodos, Classes e Objetos
 **Data:** 11/03/2025 **Matéria:** Programação Orientada a Objetos **Monitor:** Renan Portela
 
 📝 **Resumo da Aula**
