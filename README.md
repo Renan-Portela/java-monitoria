@@ -27,6 +27,60 @@ Cada resumo de aula segue a mesma estrutura:
 - **Preparação para Próxima Aula**: Orientações sobre o próximo conteúdo
 - **Dúvidas Frequentes**: Respostas para perguntas comuns
 
+## 🎬 Vídeos Recomendados
+
+Abaixo estão vídeos tutoriais recomendados para complementar o estudo de cada aula:
+
+### Aula 1: Introdução à Linguagem de Programação Java
+- [Instalação do Eclipse](https://www.youtube.com/watch?v=rIVGy49m_70) - Tutorial passo a passo para instalar e configurar o Eclipse IDE
+
+### Aula 2: Instruções de Controle de Programa
+- [Conhecendo o Eclipse](https://www.youtube.com/watch?v=jvTka-di4Do) - Apresentação detalhada da IDE
+- [Comandos de Entrada e Saída em Java](https://www.youtube.com/watch?v=0pjdxpI3WSs) - Como ler e apresentar dados
+
+### Aula 3: String e Arrays
+- [Strings em Java](https://www.youtube.com/watch?v=nW1a1Ku9TdU) - Manipulação e operações com strings
+- [Arrays em Java](https://www.youtube.com/watch?v=poDFFYkp6g4) - Como trabalhar com arrays uni e multidimensionais
+
+### Aula 4: Métodos, Classes e Objetos
+- [Classes e Objetos em Java](https://www.youtube.com/watch?v=n1VZFmjuhqg) - Fundamentos da Orientação a Objetos
+- [Construtores em Java](https://www.youtube.com/watch?v=wOJbwdLmwCA) - Como criar e utilizar construtores
+- [Métodos Getter e Setter](https://www.youtube.com/watch?v=6i-_R5cAcEc) - Encapsulamento e acesso a atributos
+
+### Aula 6: Abstração, Herança e Polimorfismo
+- [Os 4 Pilares da POO](https://www.youtube.com/watch?v=n1VZFmjuhqg) - Explicação sobre os conceitos fundamentais da Programação Orientada a Objetos
+- [Classes Abstratas e Interfaces](https://www.youtube.com/watch?v=wOJbwdLmwCA) - Implementação de abstração em Java
+- [Polimorfismo na Prática](https://www.youtube.com/watch?v=6i-_R5cAcEc) - Exemplos práticos de polimorfismo
+
+> **Dica**: Assista aos vídeos na sequência das aulas para melhor compreensão dos conceitos.
+
+## 📑 Recursos Adicionais
+
+Além dos vídeos, estes materiais complementares foram recomendados pelo professor:
+
+### Aula 1: Introdução à Linguagem de Programação Java
+- [Java SE Downloads](https://www.java.com/en/download/manual.jsp) - Link oficial para download do Java
+- [Eclipse IDE](https://www.eclipse.org/downloads/packages/) - Download da IDE recomendada
+- **Livro Recomendado**: "Java para iniciantes" por Herbert Schildt (Capítulos 1, 2 e 3)
+
+### Aula 2: Instruções de Controle de Programa
+- [DevMedia: Conhecendo o Eclipse](https://www.devmedia.com.br/conhecendo-o-eclipse-uma-apresentacao-detalhada-da-ide/25589) - Tutorial detalhado sobre a IDE
+- [DevMedia: Comandos de entrada e saída](https://www.devmedia.com.br/java-como-ler-e-apresentar-dados-com-os-comandos-de-entrada-e-saida/22266) - Artigo sobre leitura e apresentação de dados em Java
+
+### Aula 3: String e Arrays
+- [PDF sobre Arrays e Strings](https://www.inf.ufpr.br/andrey/ci062/TapAula03.pdf) - Material complementar da UFPR
+
+### Aula 4: Métodos, Classes e Objetos
+- [Documentação oficial Java sobre Classes e Objetos](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html) - Referência completa da Oracle
+
+### Aula 6: Abstração, Herança e Polimorfismo
+- [Documentação oficial Java sobre Herança](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html) - Conceitos e exemplos
+- [Documentação oficial Java sobre Classes Abstratas](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html) - Tutorial detalhado
+- [Documentação oficial Java sobre Polimorfismo](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html) - Explicações e exemplos
+- [Design Patterns para POO em Java](https://refactoring.guru/design-patterns/java) - Padrões de projeto aplicados ao Java
+
+> **Nota**: Para acesso completo à documentação oficial do Java, visite [docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+
 ## 💡 Como Utilizar
 
 1. **Navegação Rápida**: Use a tabela acima para ir diretamente ao resumo desejado
