@@ -4,7 +4,7 @@ tags: [java, programacao, monitoria, strings, arrays]
 
 ---
 
-# Revisão de Aula: String e Arrays
+# String e Arrays
 **Data:** 26/02/2025 **Matéria:** Programação Orientada a Objetos **Monitor:** Renan Portela
 
 📝 **Resumo da Aula**
