@@ -11,6 +11,7 @@ Este repositório contém resumos detalhados das aulas de Programação Java, cr
 | [Aula 3](https://github.com/Renan-Portela/java-monitoria/blob/main/aula03.md) | String e Arrays | Manipulação de strings, arrays unidimensionais e multidimensionais |
 | [Aula 4](https://github.com/Renan-Portela/java-monitoria/blob/main/aula04.md) | Métodos, Classes e Objetos | Orientação a objetos, construtores, referências, this |
 | [Aula 5](https://github.com/Renan-Portela/java-monitoria/blob/main/aula05.md) | Código Secreto | Trabalho colaborativo, integração de componentes |
+| [Aula 6](https://github.com/Renan-Portela/java-monitoria/blob/main/aula06.md) | Abstração, Herança e Polimorfismo | Pilares da POO, classes abstratas, relações entre classes |
 
 ## 🔍 Estrutura dos Resumos
 
