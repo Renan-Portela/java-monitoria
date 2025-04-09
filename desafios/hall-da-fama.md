@@ -1,4 +1,4 @@
- 🏅 Hall da Fama dos Desafios
+# 🏅 Hall da Fama dos Desafios
 
 Este é o espaço onde reconhecemos as melhores implementações dos desafios semanais. Parabéns a todos os estudantes que se destacaram!
 
