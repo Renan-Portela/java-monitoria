@@ -1,3 +1,5 @@
+package exemplos.aula6;
+
 // Implementação concreta para Carro
 public class Carro extends Veiculo {
     private int numeroPortas;
