@@ -1,31 +1,23 @@
 # 📚 Resumos de Aulas de Programação Java
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17%2B-orange" alt="Java Version">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Licen%C3%A7a-MIT-blue" alt="License">
+</p>
+
 Este repositório contém resumos detalhados das aulas de Programação Java, criados para ajudar estudantes a revisar o conteúdo de forma eficiente e estruturada. Cada resumo segue um formato padronizado, facilitando a consulta e o estudo.
 
 ## 📋 Resumos Disponíveis
 
 | Aula | Título | Descrição |
 |------|--------|-----------|
-| [Aula 1](https://github.com/Renan-Portela/java-monitoria/blob/main/aula01.md) | Introdução à Linguagem de Programação Java | Conceitos fundamentais, características do Java, tipos de dados e estrutura básica |
-| [Aula 2](https://github.com/Renan-Portela/java-monitoria/blob/main/aula02.md) | Instruções de Controle de Programa | Comandos de entrada/saída, Scanner, métodos print e printf |
-| [Aula 3](https://github.com/Renan-Portela/java-monitoria/blob/main/aula03.md) | String e Arrays | Manipulação de strings, arrays unidimensionais e multidimensionais |
-| [Aula 4](https://github.com/Renan-Portela/java-monitoria/blob/main/aula04.md) | Métodos, Classes e Objetos | Orientação a objetos, construtores, referências, this |
-| [Aula 5](https://github.com/Renan-Portela/java-monitoria/blob/main/aula05.md) | Código Secreto | Trabalho colaborativo, integração de componentes |
-| [Aula 6](https://github.com/Renan-Portela/java-monitoria/blob/main/aula06.md) | Abstração, Herança e Polimorfismo | Pilares da POO, classes abstratas, relações entre classes |
-
-## 🔍 Estrutura dos Resumos
-
-Cada resumo de aula segue a mesma estrutura:
-
-- **Cabeçalho**: Título, data, módulo e nome do monitor
-- **Resumo da Aula**: Breve descrição dos principais temas abordados
-- **Conceitos-Chave**: Explicações sucintas dos conceitos fundamentais
-- **Exemplos de Código**: Snippets de código comentados e explicados
-- **Pontos de Atenção**: Alertas sobre erros comuns e boas práticas
-- **Exercício Prático**: Problema proposto com solução detalhada
-- **Recursos Adicionais**: Links e referências para aprofundamento
-- **Preparação para Próxima Aula**: Orientações sobre o próximo conteúdo
-- **Dúvidas Frequentes**: Respostas para perguntas comuns
+| [Aula 1](resumos/aula01.md) | Introdução à Linguagem de Programação Java | Conceitos fundamentais, características do Java, tipos de dados e estrutura básica |
+| [Aula 2](resumos/aula02.md) | Instruções de Controle de Programa | Comandos de entrada/saída, Scanner, métodos print e printf |
+| [Aula 3](resumos/aula03.md) | String e Arrays | Manipulação de strings, arrays unidimensionais e multidimensionais |
+| [Aula 4](resumos/aula04.md) | Métodos, Classes e Objetos | Orientação a objetos, construtores, referências, this |
+| [Aula 5](resumos/aula05.md) | Código Secreto | Trabalho colaborativo, integração de componentes |
+| [Aula 6](resumos/aula06.md) | Abstração, Herança e Polimorfismo | Pilares da POO, classes abstratas, relações entre classes |
 
 ## 🎬 Vídeos Recomendados
 
@@ -52,42 +44,99 @@ Abaixo estão vídeos tutoriais recomendados para complementar o estudo de cada 
 - [Classes Abstratas e Interfaces](https://www.youtube.com/watch?v=wOJbwdLmwCA) - Implementação de abstração em Java
 - [Polimorfismo na Prática](https://www.youtube.com/watch?v=6i-_R5cAcEc) - Exemplos práticos de polimorfismo
 
-> **Dica**: Assista aos vídeos na sequência das aulas para melhor compreensão dos conceitos.
+## 🔰 Novo no GitHub? Comece Aqui!
 
-## 📑 Recursos Adicionais
+Se esta é sua primeira vez usando GitHub, não se preocupe! Siga estas instruções simples:
 
-Além dos vídeos, estes materiais complementares foram recomendados pelo professor:
+### Navegação Básica (Sem Instalação)
+1. **Navegue pelas pastas** clicando nos nomes delas (resumos, exemplos, etc.)
+2. **Visualize arquivos** clicando em seus nomes
+3. **Volte para a pasta anterior** clicando em "java-monitoria" no topo da página
+4. **Procure conteúdo** usando a barra de busca no topo (aperte "/" ou clique na lupa)
 
-### Aula 1: Introdução à Linguagem de Programação Java
-- [Java SE Downloads](https://www.java.com/en/download/manual.jsp) - Link oficial para download do Java
-- [Eclipse IDE](https://www.eclipse.org/downloads/packages/) - Download da IDE recomendada
-- **Livro Recomendado**: "Java para iniciantes" por Herbert Schildt (Capítulos 1, 2 e 3)
+### Baixar o Material (Opção 1: Download ZIP)
+1. Clique no botão verde "Code" no topo da página
+2. Selecione "Download ZIP"
+3. Extraia o arquivo em seu computador
 
-### Aula 2: Instruções de Controle de Programa
-- [DevMedia: Conhecendo o Eclipse](https://www.devmedia.com.br/conhecendo-o-eclipse-uma-apresentacao-detalhada-da-ide/25589) - Tutorial detalhado sobre a IDE
-- [DevMedia: Comandos de entrada e saída](https://www.devmedia.com.br/java-como-ler-e-apresentar-dados-com-os-comandos-de-entrada-e-saida/22266) - Artigo sobre leitura e apresentação de dados em Java
+### Baixar o Material (Opção 2: GitHub Desktop)
+1. Instale o [GitHub Desktop](https://desktop.github.com/)
+2. Clique no botão verde "Code" no topo da página
+3. Selecione "Open with GitHub Desktop"
+4. Escolha onde salvar no seu computador
 
-### Aula 3: String e Arrays
-- [PDF sobre Arrays e Strings](https://www.inf.ufpr.br/andrey/ci062/TapAula03.pdf) - Material complementar da UFPR
+## ⚡ Acesso Rápido
 
-### Aula 4: Métodos, Classes e Objetos
-- [Documentação oficial Java sobre Classes e Objetos](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html) - Referência completa da Oracle
+| O que você precisa | Link direto |
+|-------------------|-------------|
+| Resumos de todas as aulas | [Pasta de Resumos](resumos/) |
+| Último resumo (Aula 6) | [Abstração, Herança e Polimorfismo](resumos/aula06.md) |
+| Exemplos práticos da Aula 6 | [Código de Exemplo](exemplos/aula6/) |
+| Exercício da semana | [Sistema Hospitalar](exercicios/aula6/) |
+| Desafio atual | [Sistema de Reservas](desafios/desafio-semanal1.md) |
 
-### Aula 6: Abstração, Herança e Polimorfismo
-- [Documentação oficial Java sobre Herança](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html) - Conceitos e exemplos
-- [Documentação oficial Java sobre Classes Abstratas](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html) - Tutorial detalhado
-- [Documentação oficial Java sobre Polimorfismo](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html) - Explicações e exemplos
-- [Design Patterns para POO em Java](https://refactoring.guru/design-patterns/java) - Padrões de projeto aplicados ao Java
+## 🔍 Material Disponível
 
-> **Nota**: Para acesso completo à documentação oficial do Java, visite [docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+Neste repositório você encontrará:
 
-## 💡 Como Utilizar
+- **[Resumos de Aulas](resumos/)**: Anotações detalhadas de cada aula
+- **[Exemplos de Código](exemplos/)**: Código-fonte completo dos exemplos apresentados
+- **[Exercícios Práticos](exercicios/)**: Problemas propostos para praticar os conceitos
+- **[Projetos Práticos](projetos-praticos/)**: Projetos integradores para aplicar múltiplos conceitos
+- **[Desafios](desafios/)**: Desafios extras para aprimorar suas habilidades
 
-1. **Navegação Rápida**: Use a tabela acima para ir diretamente ao resumo desejado
-2. **Estudo Sequencial**: Para iniciantes, recomenda-se seguir a ordem das aulas
-3. **Consulta Pontual**: Utilize os resumos para esclarecer dúvidas específicas
-4. **Exercícios**: Tente resolver os exercícios propostos antes de consultar as soluções
-5. **IDE Recomendada**: Os exemplos foram desenvolvidos usando Eclipse, mas funcionam em qualquer IDE Java
+## 🔍 Estrutura dos Resumos
+
+Cada resumo de aula segue a mesma estrutura:
+
+- **Cabeçalho**: Título, data, módulo e nome do monitor
+- **Resumo da Aula**: Breve descrição dos principais temas abordados
+- **Conceitos-Chave**: Explicações sucintas dos conceitos fundamentais
+- **Exemplos de Código**: Snippets de código comentados e explicados
+- **Pontos de Atenção**: Alertas sobre erros comuns e boas práticas
+- **Exercício Prático**: Problema proposto com solução detalhada
+- **Recursos Adicionais**: Links e referências para aprofundamento
+- **Preparação para Próxima Aula**: Orientações sobre o próximo conteúdo
+- **Dúvidas Frequentes**: Respostas para perguntas comuns
+
+## 🏆 Desafio da Semana
+
+A cada semana, um novo desafio de programação é publicado na pasta [desafios](desafios/). Os alunos que resolverem o desafio têm seus nomes adicionados ao [Hall da Fama](desafios/hall-da-fama.md).
+
+**Desafio atual:** [Sistema de Reservas](desafios/desafio-semanal1.md)  
+**Prazo:** 15/04/2025
+
+## 📊 Progresso de Aprendizado
+
+Para ajudar a acompanhar seu progresso, sugerimos a seguinte ordem de estudo:
+
+1. Leia o resumo da aula
+2. Estude os exemplos de código relacionados
+3. Resolva os exercícios propostos
+4. Avance para projetos práticos maiores
+5. Tente os desafios semanais
+6. Contribua com melhorias para o repositório
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Se você deseja melhorar este material:
+
+1. Faça um fork do repositório
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
+3. Faça commit de suas alterações (`git commit -m 'Adiciona nova feature'`)
+4. Faça push para a branch (`git push origin feature/nova-feature`)
+5. Abra um Pull Request
+
+Consulte o [guia de contribuição](CONTRIBUTING.md) para mais detalhes.
+
+## 💡 Perguntas para Reflexão
+
+Ao estudar cada aula, considere estas perguntas:
+
+1. Como este conceito se relaciona com o que aprendi anteriormente?
+2. Quais são os casos de uso reais para esta funcionalidade?
+3. Como eu explicaria este conceito para alguém que está começando em programação?
+4. Quais erros comuns devo evitar ao aplicar este conhecimento?
 
 ## 🧩 Pré-requisitos
 
@@ -95,21 +144,11 @@ Além dos vídeos, estes materiais complementares foram recomendados pelo profes
 - JDK instalado (Java Development Kit)
 - IDE para Java (Eclipse recomendado conforme as aulas)
 
-## 🤝 Contribuindo
+## 📬 Contato
 
-Se você encontrar erros ou quiser melhorar estes resumos:
-
-1. Faça um fork do repositório
-2. Crie uma branch para suas alterações (`git checkout -b melhoria-resumo`)
-3. Faça commit das suas alterações (`git commit -m 'Adicionei explicação sobre X'`)
-4. Faça push para a branch (`git push origin melhoria-resumo`)
-5. Abra um Pull Request
-
-## 📝 Informações Adicionais
-
-- **Monitor**: Renan Portela
-- **Semestre**: 2025.1
-- **Contato**: [renanportela@protonmail.com]
+- **Monitor:** Renan Portela
+- **E-mail:** renanportela@protonmail.com
+- **Semestre:** 2025.1
 
 ## ⭐ Agradecimentos
 
@@ -117,6 +156,8 @@ Agradecemos a todos os colegas que contribuíram com sugestões e correções pa
 
 ---
 
-*Estes resumos foram criados para a comunidade de estudantes de Java. Compartilhe e estude!*
+<p align="center">
+  <i>Estes resumos foram criados para a comunidade de estudantes de Java. Compartilhe e estude!</i>
+</p>
 
 #java #programacao #monitoria #estudos
