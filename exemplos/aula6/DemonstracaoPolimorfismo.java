@@ -1,3 +1,5 @@
+package exemplos.aula6;
+
 // Classe para demonstrar o polimorfismo
 public class DemonstraPolimorfismo {
     public static void main(String[] args) {
