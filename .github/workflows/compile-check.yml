@@ -24,7 +24,11 @@ jobs:
         
     - name: Compile Examples
       run: |
-        find ./exemplos -name "*.java" -type f | while read -r file; do
-          echo "Compiling $file"
-          javac "$file" || exit 1
+        # Encontrar todos os diretórios com arquivos Java
+        JAVA_DIRS=$(find ./exemplos -name "*.java" -type f -printf "%h\n" | sort | uniq)
+        
+        # Para cada diretório, compilar todos os arquivos Java juntos
+        for dir in $JAVA_DIRS; do
+          echo "Compilando arquivos em $dir"
+          find "$dir" -name "*.java" -type f -print | xargs javac
         done
