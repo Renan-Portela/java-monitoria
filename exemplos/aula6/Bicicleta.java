@@ -1,3 +1,5 @@
+package exemplos.aula6;
+
 // Implementação concreta para Bicicleta
 public class Bicicleta extends Veiculo {
     private int numeroMarchas;
