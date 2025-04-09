@@ -1,3 +1,5 @@
+package exemplos.aula6;
+
 // Classe abstrata representando um veículo
 public abstract class Veiculo {
     protected String marca;
