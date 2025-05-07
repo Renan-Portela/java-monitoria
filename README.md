@@ -18,6 +18,7 @@ Este repositório contém resumos detalhados das aulas de Programação Java, cr
 | [Aula 4](resumos/aula04.md) | Métodos, Classes e Objetos | Orientação a objetos, construtores, referências, this |
 | [Aula 5](resumos/aula05.md) | Código Secreto | Trabalho colaborativo, integração de componentes |
 | [Aula 6](resumos/aula06.md) | Abstração, Herança e Polimorfismo | Pilares da POO, classes abstratas, relações entre classes |
+| [Aula 7](resumos/aula07.md) | Comandos Avançados em Java | Interfaces, tratamento de exceções, composição e agregação |
 
 ## 🎬 Vídeos Recomendados
 
@@ -43,6 +44,12 @@ Abaixo estão vídeos tutoriais recomendados para complementar o estudo de cada 
 - [Os 4 Pilares da POO](https://www.youtube.com/watch?v=n1VZFmjuhqg) - Explicação sobre os conceitos fundamentais da Programação Orientada a Objetos
 - [Classes Abstratas e Interfaces](https://www.youtube.com/watch?v=wOJbwdLmwCA) - Implementação de abstração em Java
 - [Polimorfismo na Prática](https://www.youtube.com/watch?v=6i-_R5cAcEc) - Exemplos práticos de polimorfismo
+
+### Aula 7: Comandos Avançados em Java
+- [Interfaces em Java](https://www.youtube.com/watch?v=6uLLfRNgRA4) - Como criar e implementar interfaces
+- [Tratamento de Exceções](https://www.youtube.com/watch?v=ld2C4GcAtsg) - Try, catch, finally e throw
+- [Composição vs Herança](https://www.youtube.com/watch?v=sb3tQlLbdbo) - Quando usar cada abordagem
+- [Try-Catch na Prática](https://www.youtube.com/watch?v=tWFzUXJYlpI) - Exemplos práticos de tratamento de erros
 
 ## 🔰 Novo no GitHub? Comece Aqui!
 
@@ -70,9 +77,9 @@ Se esta é sua primeira vez usando GitHub, não se preocupe! Siga estas instruç
 | O que você precisa | Link direto |
 |-------------------|-------------|
 | Resumos de todas as aulas | [Pasta de Resumos](resumos/) |
-| Último resumo (Aula 6) | [Abstração, Herança e Polimorfismo](resumos/aula06.md) |
-| Exemplos práticos da Aula 6 | [Código de Exemplo](exemplos/aula6/) |
-| Exercício da semana | [Sistema Hospitalar](exercicios/aula6/) |
+| Último resumo (Aula 7) | [Comandos Avançados em Java](resumos/aula07.md) |
+| Exemplos práticos da Aula 6 | [Código de Exemplo](exemplos/aula7/) |
+| Exercício da semana | [Sistema Aluno-Disciplina](exercicios/aula7/exercicio/) |
 | Desafio atual | [Sistema de Reservas](desafios/desafio-semanal1.md) |
 
 ## 🔍 Material Disponível
